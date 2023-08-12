@@ -10,6 +10,7 @@
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
+    "caniuse-lite": "^1.0.30001519",
     "classnames": "^2.2.6",
     "emailjs-com": "^2.6.3",
     "react": "^16.13.1",
@@ -46,5 +47,9 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.20.0",
     "eslint-plugin-react-hooks": "^2.5.1"
+  },
+  "engines": {
+    "node": "14.x" 
   }
+  
 }
